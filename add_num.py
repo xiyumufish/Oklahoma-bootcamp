@@ -1,5 +1,5 @@
 
-#This has been authored by Xiyu.Mu but who knows who will contribute to it in the future.
+#This has been authored by Xiyu.Mu and John but who knows who will contribute to it in the future.
 from adding import add_two, add_three
 
 def main():
